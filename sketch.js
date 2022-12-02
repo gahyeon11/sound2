@@ -25,7 +25,7 @@ function draw(){
   //   background(51);
   // }
 
-   wave.freq(ampvalue);
+   wave.freq(ampValue);
 }
 function toggle(){
   if(!playing){
